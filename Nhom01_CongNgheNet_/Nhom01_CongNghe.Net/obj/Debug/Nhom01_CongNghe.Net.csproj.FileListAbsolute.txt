@@ -1,0 +1,156 @@
+D:\HOCTAP_HUFI\HOCKY5_22_23\CongNghe.NET\Nhom01_CongNghe.Net\Nhom01_CongNghe.Net\bin\Debug\Nhom01_CongNghe.Net.exe.config
+D:\HOCTAP_HUFI\HOCKY5_22_23\CongNghe.NET\Nhom01_CongNghe.Net\Nhom01_CongNghe.Net\bin\Debug\Nhom01_CongNghe.Net.exe
+D:\HOCTAP_HUFI\HOCKY5_22_23\CongNghe.NET\Nhom01_CongNghe.Net\Nhom01_CongNghe.Net\bin\Debug\Nhom01_CongNghe.Net.pdb
+D:\HOCTAP_HUFI\HOCKY5_22_23\CongNghe.NET\Nhom01_CongNghe.Net\Nhom01_CongNghe.Net\obj\Debug\Nhom01_CongNghe.Net.csprojResolveAssemblyReference.cache
+D:\HOCTAP_HUFI\HOCKY5_22_23\CongNghe.NET\Nhom01_CongNghe.Net\Nhom01_CongNghe.Net\obj\Debug\Nhom01_CongNghe.Net.frmLogin.resources
+D:\HOCTAP_HUFI\HOCKY5_22_23\CongNghe.NET\Nhom01_CongNghe.Net\Nhom01_CongNghe.Net\obj\Debug\Nhom01_CongNghe.Net.Properties.Resources.resources
+D:\HOCTAP_HUFI\HOCKY5_22_23\CongNghe.NET\Nhom01_CongNghe.Net\Nhom01_CongNghe.Net\obj\Debug\Nhom01_CongNghe.Net.csproj.GenerateResource.Cache
+D:\HOCTAP_HUFI\HOCKY5_22_23\CongNghe.NET\Nhom01_CongNghe.Net\Nhom01_CongNghe.Net\obj\Debug\Nhom01_CongNghe.Net.exe
+D:\HOCTAP_HUFI\HOCKY5_22_23\CongNghe.NET\Nhom01_CongNghe.Net\Nhom01_CongNghe.Net\obj\Debug\Nhom01_CongNghe.Net.pdb
+D:\HOCTAP_HUFI\HOCKY5_22_23\CongNghe.NET\Nhom01_CongNghe.Net\Nhom01_CongNghe.Net\obj\Debug\Nhom01_CongNghe.Net.frmMain.resources
+D:\HOCTAP_HUFI\HOCKY5_22_23\CongNghe.NET\Nhom01_CongNghe.Net\Nhom01_CongNghe.Net\obj\Debug\Nhom01_CongNghe.Net.frmSanPham.resources
+D:\HOCTAP_HUFI\HOCKY5_22_23\CongNgheNET\Nhom01_CongNgheNet\Nhom01_CongNghe.Net\bin\Debug\Nhom01_CongNghe.Net.exe.config
+D:\HOCTAP_HUFI\HOCKY5_22_23\CongNgheNET\Nhom01_CongNgheNet\Nhom01_CongNghe.Net\obj\Debug\Nhom01_CongNghe.Net.exe
+D:\HOCTAP_HUFI\HOCKY5_22_23\CongNgheNET\Nhom01_CongNgheNet\Nhom01_CongNghe.Net\obj\Debug\Nhom01_CongNghe.Net.pdb
+D:\HOCTAP_HUFI\HOCKY5_22_23\CongNgheNET\Nhom01_CongNgheNet\Nhom01_CongNghe.Net\bin\Debug\Nhom01_CongNghe.Net.exe
+D:\HOCTAP_HUFI\HOCKY5_22_23\CongNgheNET\Nhom01_CongNgheNet\Nhom01_CongNghe.Net\bin\Debug\Nhom01_CongNghe.Net.pdb
+D:\HOCTAP_HUFI\HOCKY5_22_23\CongNgheNET\Nhom01_CongNgheNet\Nhom01_CongNghe.Net\obj\Debug\Nhom01_CongNghe.Net.csprojResolveAssemblyReference.cache
+D:\HOCTAP_HUFI\HOCKY5_22_23\CongNgheNET\Nhom01_CongNgheNet\Nhom01_CongNghe.Net\obj\Debug\Nhom01_CongNghe.Net.frmLogin.resources
+D:\HOCTAP_HUFI\HOCKY5_22_23\CongNgheNET\Nhom01_CongNgheNet\Nhom01_CongNghe.Net\obj\Debug\Nhom01_CongNghe.Net.frmMain.resources
+D:\HOCTAP_HUFI\HOCKY5_22_23\CongNgheNET\Nhom01_CongNgheNet\Nhom01_CongNghe.Net\obj\Debug\Nhom01_CongNghe.Net.frmSanPham.resources
+D:\HOCTAP_HUFI\HOCKY5_22_23\CongNgheNET\Nhom01_CongNgheNet\Nhom01_CongNghe.Net\obj\Debug\Nhom01_CongNghe.Net.Properties.Resources.resources
+D:\HOCTAP_HUFI\HOCKY5_22_23\CongNgheNET\Nhom01_CongNgheNet\Nhom01_CongNghe.Net\obj\Debug\Nhom01_CongNghe.Net.csproj.GenerateResource.Cache
+D:\HOCTAP_HUFI\HOCKY5_22_23\CongNgheNET\Nhom01_CongNgheNet\Nhom01_CongNghe.Net\obj\Debug\Nhom01_CongNghe.Net.frmDanhmuc.resources
+D:\HOCTAP_HUFI\HOCKY5_22_23\CongNgheNET\Nhom01_CongNgheNet\Nhom01_CongNghe.Net\obj\Debug\Nhom01_CongNghe.Net.frmPhong.resources
+D:\HOCTAP_HUFI\HOCKY5_22_23\CongNgheNET\Nhom01_CongNgheNet\Nhom01_CongNghe.Net\obj\Debug\Nhom01_CongNghe.Net.frmTaiKhoan.resources
+D:\HOCTAP_HUFI\HOCKY5_22_23\CongNgheNET\Nhom01_CongNgheNet\Nhom01_CongNghe.Net\obj\Debug\Nhom01_CongNghe.Net.frmDoiMatKhau.resources
+D:\HOCTAP_HUFI\HOCKY5_22_23\CongNgheNET\Nhom01_CongNgheNet\Nhom01_CongNghe.Net\obj\Debug\Nhom01_CongNghe.Net.test.resources
+C:\Users\PC\Desktop\Nhom01_CongNgheNet\Nhom01_CongNghe.Net\bin\Debug\Nhom01_CongNghe.Net.exe.config
+C:\Users\PC\Desktop\Nhom01_CongNgheNet\Nhom01_CongNghe.Net\bin\Debug\Nhom01_CongNghe.Net.exe
+C:\Users\PC\Desktop\Nhom01_CongNgheNet\Nhom01_CongNghe.Net\bin\Debug\Nhom01_CongNghe.Net.pdb
+C:\Users\PC\Desktop\Nhom01_CongNgheNet\Nhom01_CongNghe.Net\obj\Debug\Nhom01_CongNghe.Net.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Nhom01_CongNgheNet\Nhom01_CongNghe.Net\obj\Debug\Nhom01_CongNghe.Net.frmDoiMatKhau.resources
+C:\Users\PC\Desktop\Nhom01_CongNgheNet\Nhom01_CongNghe.Net\obj\Debug\Nhom01_CongNghe.Net.frmLogin.resources
+C:\Users\PC\Desktop\Nhom01_CongNgheNet\Nhom01_CongNghe.Net\obj\Debug\Nhom01_CongNghe.Net.frmMain.resources
+C:\Users\PC\Desktop\Nhom01_CongNgheNet\Nhom01_CongNghe.Net\obj\Debug\Nhom01_CongNghe.Net.frmDanhmuc.resources
+C:\Users\PC\Desktop\Nhom01_CongNgheNet\Nhom01_CongNghe.Net\obj\Debug\Nhom01_CongNghe.Net.frmSanPham.resources
+C:\Users\PC\Desktop\Nhom01_CongNgheNet\Nhom01_CongNghe.Net\obj\Debug\Nhom01_CongNghe.Net.frmPhong.resources
+C:\Users\PC\Desktop\Nhom01_CongNgheNet\Nhom01_CongNghe.Net\obj\Debug\Nhom01_CongNghe.Net.frmTaiKhoan.resources
+C:\Users\PC\Desktop\Nhom01_CongNgheNet\Nhom01_CongNghe.Net\obj\Debug\Nhom01_CongNghe.Net.Properties.Resources.resources
+C:\Users\PC\Desktop\Nhom01_CongNgheNet\Nhom01_CongNghe.Net\obj\Debug\Nhom01_CongNghe.Net.test.resources
+C:\Users\PC\Desktop\Nhom01_CongNgheNet\Nhom01_CongNghe.Net\obj\Debug\Nhom01_CongNghe.Net.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\Nhom01_CongNgheNet\Nhom01_CongNghe.Net\obj\Debug\Nhom01_CongNghe.Net.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Nhom01_CongNgheNet\Nhom01_CongNghe.Net\obj\Debug\Nhom01_CongNghe.Net.exe
+C:\Users\PC\Desktop\Nhom01_CongNgheNet\Nhom01_CongNghe.Net\obj\Debug\Nhom01_CongNghe.Net.pdb
+C:\Users\PC\Desktop\Nhom01_CongNgheNet - Sao chép\Nhom01_CongNghe.Net\bin\Debug\Nhom01_CongNghe.Net.exe.config
+C:\Users\PC\Desktop\Nhom01_CongNgheNet - Sao chép\Nhom01_CongNghe.Net\bin\Debug\Nhom01_CongNghe.Net.exe
+C:\Users\PC\Desktop\Nhom01_CongNgheNet - Sao chép\Nhom01_CongNghe.Net\bin\Debug\Nhom01_CongNghe.Net.pdb
+C:\Users\PC\Desktop\Nhom01_CongNgheNet - Sao chép\Nhom01_CongNghe.Net\obj\Debug\Nhom01_CongNghe.Net.frmLogin.resources
+C:\Users\PC\Desktop\Nhom01_CongNgheNet - Sao chép\Nhom01_CongNghe.Net\obj\Debug\Nhom01_CongNghe.Net.frmMain.resources
+C:\Users\PC\Desktop\Nhom01_CongNgheNet - Sao chép\Nhom01_CongNghe.Net\obj\Debug\Nhom01_CongNghe.Net.frmDanhmuc.resources
+C:\Users\PC\Desktop\Nhom01_CongNgheNet - Sao chép\Nhom01_CongNghe.Net\obj\Debug\Nhom01_CongNghe.Net.frmMenu.resources
+C:\Users\PC\Desktop\Nhom01_CongNgheNet - Sao chép\Nhom01_CongNghe.Net\obj\Debug\Nhom01_CongNghe.Net.frmSanPham.resources
+C:\Users\PC\Desktop\Nhom01_CongNgheNet - Sao chép\Nhom01_CongNghe.Net\obj\Debug\Nhom01_CongNghe.Net.frmPhong.resources
+C:\Users\PC\Desktop\Nhom01_CongNgheNet - Sao chép\Nhom01_CongNghe.Net\obj\Debug\Nhom01_CongNghe.Net.frmTaiKhoan.resources
+C:\Users\PC\Desktop\Nhom01_CongNgheNet - Sao chép\Nhom01_CongNghe.Net\obj\Debug\Nhom01_CongNghe.Net.Properties.Resources.resources
+C:\Users\PC\Desktop\Nhom01_CongNgheNet - Sao chép\Nhom01_CongNghe.Net\obj\Debug\Nhom01_CongNghe.Net.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\Nhom01_CongNgheNet - Sao chép\Nhom01_CongNghe.Net\obj\Debug\Nhom01_CongNghe.Net.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Nhom01_CongNgheNet - Sao chép\Nhom01_CongNghe.Net\obj\Debug\Nhom01_CongNghe.Net.exe
+C:\Users\PC\Desktop\Nhom01_CongNgheNet - Sao chép\Nhom01_CongNghe.Net\obj\Debug\Nhom01_CongNghe.Net.pdb
+C:\Users\PC\Desktop\Nhom01_CongNgheNet - Sao chép\Nhom01_CongNghe.Net\obj\Debug\Nhom01_CongNghe.Net.frmMain_NV.resources
+C:\Users\PC\Desktop\Nhom01_CongNgheNet - Sao chép\Nhom01_CongNghe.Net\obj\Debug\Nhom01_CongNghe.Net.frmOder.resources
+C:\Users\PC\Desktop\Nhom01_CongNgheNet - Sao chép\Nhom01_CongNghe.Net\obj\Debug\Nhom01_CongNghe.Net.frmChiTietSanPham.resources
+C:\Users\PC\Desktop\Nhom01_CongNgheNet - Sao chép\Nhom01_CongNghe.Net\obj\Debug\Nhom01_CongNghe.Net.frmQLPhong.resources
+C:\Users\PC\Desktop\Nhom01_CongNgheNet - Sao chép\Nhom01_CongNghe.Net\obj\Debug\Nhom01_CongNghe.Net.frmQuanTri.resources
+C:\Users\PC\Desktop\Nhom01_CongNgheNet - Sao chép\Nhom01_CongNghe.Net\obj\Debug\Nhom01_CongNghe.Net.frmQLSanPham.resources
+C:\Users\PC\Desktop\Nhom01_CongNgheNet - Sao chép\Nhom01_CongNghe.Net\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\PC\Desktop\Nhom01_CongNgheNet - Sao chép\Nhom01_CongNghe.Net\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\PC\Desktop\Nhom01_CongNgheNet - Sao chép\Nhom01_CongNghe.Net\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\PC\Desktop\Nhom01_CongNgheNet - Sao chép\Nhom01_CongNghe.Net\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\PC\Desktop\Nhom01_CongNgheNet - Sao chép\Nhom01_CongNghe.Net\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\PC\Desktop\Nhom01_CongNgheNet - Sao chép\Nhom01_CongNghe.Net\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\PC\Desktop\Nhom01_CongNgheNet - Sao chép\Nhom01_CongNghe.Net\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\PC\Desktop\Nhom01_CongNgheNet - Sao chép\Nhom01_CongNghe.Net\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\PC\Desktop\Nhom01_CongNgheNet - Sao chép\Nhom01_CongNghe.Net\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\PC\Desktop\Nhom01_CongNgheNet - Sao chép\Nhom01_CongNghe.Net\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\PC\Desktop\Nhom01_CongNgheNet - Sao chép\Nhom01_CongNghe.Net\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\PC\Desktop\Nhom01_CongNgheNet - Sao chép\Nhom01_CongNghe.Net\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\PC\Desktop\Nhom01_CongNgheNet - Sao chép\Nhom01_CongNghe.Net\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\PC\Desktop\Nhom01_CongNgheNet - Sao chép\Nhom01_CongNghe.Net\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\PC\Desktop\Nhom01_CongNgheNet - Sao chép\Nhom01_CongNghe.Net\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\PC\Desktop\Nhom01_CongNgheNet - Sao chép\Nhom01_CongNghe.Net\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\PC\Desktop\Nhom01_CongNgheNet - Sao chép\Nhom01_CongNghe.Net\bin\Debug\stdole.dll
+C:\Users\PC\Desktop\Nhom01_CongNgheNet - Sao chép\Nhom01_CongNghe.Net\obj\Debug\Nhom01_CongNghe.Net.DSHOADON.resources
+C:\Users\PC\Desktop\Nhom01_CongNgheNet - Sao chép\Nhom01_CongNghe.Net\obj\Debug\Nhom01_CongNghe.Net.frmHoaDon.resources
+C:\Users\PC\Desktop\Nhom01_CongNgheNet - Sao chép\Nhom01_CongNghe.Net\obj\Debug\Nhom01_CongNghe.Net.frmQLHoaDon.resources
+C:\Users\PC\Desktop\Nhom01_CongNgheNet - Sao chép\Nhom01_CongNghe.Net\obj\Debug\Nhom01_CongNghe.Net.csproj.CopyComplete
+C:\Users\PC\Desktop\Nhom01_CongNgheNet - Sao chép\Nhom01_CongNghe.Net\obj\Debug\Nhom01_CongNghe.Net.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Nhom01_CongNgheNet - Sao chép\Nhom01_CongNghe.Net\obj\Debug\Nhom01_CongNghe.Net.Report_DanhSachHD.resources
+C:\Users\PC\Desktop\Nhom01_CongNgheNet - Sao chép\Nhom01_CongNghe.Net\obj\Debug\Nhom01_CongNghe.Net.Report_DoanhSo.resources
+C:\Users\PC\Desktop\DoAn\Nhom01_CongNgheNet - Sao chép\Nhom01_CongNghe.Net\bin\Debug\Nhom01_CongNghe.Net.exe.config
+C:\Users\PC\Desktop\DoAn\Nhom01_CongNgheNet - Sao chép\Nhom01_CongNghe.Net\bin\Debug\Nhom01_CongNghe.Net.exe
+C:\Users\PC\Desktop\DoAn\Nhom01_CongNgheNet - Sao chép\Nhom01_CongNghe.Net\bin\Debug\Nhom01_CongNghe.Net.pdb
+C:\Users\PC\Desktop\DoAn\Nhom01_CongNgheNet - Sao chép\Nhom01_CongNghe.Net\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\PC\Desktop\DoAn\Nhom01_CongNgheNet - Sao chép\Nhom01_CongNghe.Net\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\PC\Desktop\DoAn\Nhom01_CongNgheNet - Sao chép\Nhom01_CongNghe.Net\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\PC\Desktop\DoAn\Nhom01_CongNgheNet - Sao chép\Nhom01_CongNghe.Net\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\PC\Desktop\DoAn\Nhom01_CongNgheNet - Sao chép\Nhom01_CongNghe.Net\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\PC\Desktop\DoAn\Nhom01_CongNgheNet - Sao chép\Nhom01_CongNghe.Net\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\PC\Desktop\DoAn\Nhom01_CongNgheNet - Sao chép\Nhom01_CongNghe.Net\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\PC\Desktop\DoAn\Nhom01_CongNgheNet - Sao chép\Nhom01_CongNghe.Net\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\PC\Desktop\DoAn\Nhom01_CongNgheNet - Sao chép\Nhom01_CongNghe.Net\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\PC\Desktop\DoAn\Nhom01_CongNgheNet - Sao chép\Nhom01_CongNghe.Net\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\PC\Desktop\DoAn\Nhom01_CongNgheNet - Sao chép\Nhom01_CongNghe.Net\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\PC\Desktop\DoAn\Nhom01_CongNgheNet - Sao chép\Nhom01_CongNghe.Net\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\PC\Desktop\DoAn\Nhom01_CongNgheNet - Sao chép\Nhom01_CongNghe.Net\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\PC\Desktop\DoAn\Nhom01_CongNgheNet - Sao chép\Nhom01_CongNghe.Net\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\PC\Desktop\DoAn\Nhom01_CongNgheNet - Sao chép\Nhom01_CongNghe.Net\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\PC\Desktop\DoAn\Nhom01_CongNgheNet - Sao chép\Nhom01_CongNghe.Net\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\PC\Desktop\DoAn\Nhom01_CongNgheNet - Sao chép\Nhom01_CongNghe.Net\bin\Debug\stdole.dll
+C:\Users\PC\Desktop\DoAn\Nhom01_CongNgheNet - Sao chép\Nhom01_CongNghe.Net\obj\Debug\Nhom01_CongNghe.Net.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\DoAn\Nhom01_CongNgheNet - Sao chép\Nhom01_CongNghe.Net\obj\Debug\Nhom01_CongNghe.Net.DSHOADON.resources
+C:\Users\PC\Desktop\DoAn\Nhom01_CongNgheNet - Sao chép\Nhom01_CongNghe.Net\obj\Debug\Nhom01_CongNghe.Net.frmChiTietSanPham.resources
+C:\Users\PC\Desktop\DoAn\Nhom01_CongNgheNet - Sao chép\Nhom01_CongNghe.Net\obj\Debug\Nhom01_CongNghe.Net.frmHoaDon.resources
+C:\Users\PC\Desktop\DoAn\Nhom01_CongNgheNet - Sao chép\Nhom01_CongNghe.Net\obj\Debug\Nhom01_CongNghe.Net.frmLogin.resources
+C:\Users\PC\Desktop\DoAn\Nhom01_CongNgheNet - Sao chép\Nhom01_CongNghe.Net\obj\Debug\Nhom01_CongNghe.Net.frmMain_NV.resources
+C:\Users\PC\Desktop\DoAn\Nhom01_CongNgheNet - Sao chép\Nhom01_CongNghe.Net\obj\Debug\Nhom01_CongNghe.Net.frmDanhmuc.resources
+C:\Users\PC\Desktop\DoAn\Nhom01_CongNgheNet - Sao chép\Nhom01_CongNghe.Net\obj\Debug\Nhom01_CongNghe.Net.frmMenu.resources
+C:\Users\PC\Desktop\DoAn\Nhom01_CongNgheNet - Sao chép\Nhom01_CongNghe.Net\obj\Debug\Nhom01_CongNghe.Net.frmOder.resources
+C:\Users\PC\Desktop\DoAn\Nhom01_CongNgheNet - Sao chép\Nhom01_CongNghe.Net\obj\Debug\Nhom01_CongNghe.Net.frmQLHoaDon.resources
+C:\Users\PC\Desktop\DoAn\Nhom01_CongNgheNet - Sao chép\Nhom01_CongNghe.Net\obj\Debug\Nhom01_CongNghe.Net.frmQLPhong.resources
+C:\Users\PC\Desktop\DoAn\Nhom01_CongNgheNet - Sao chép\Nhom01_CongNghe.Net\obj\Debug\Nhom01_CongNghe.Net.frmQLSanPham.resources
+C:\Users\PC\Desktop\DoAn\Nhom01_CongNgheNet - Sao chép\Nhom01_CongNghe.Net\obj\Debug\Nhom01_CongNghe.Net.frmQuanTri.resources
+C:\Users\PC\Desktop\DoAn\Nhom01_CongNgheNet - Sao chép\Nhom01_CongNghe.Net\obj\Debug\Nhom01_CongNghe.Net.frmPhong.resources
+C:\Users\PC\Desktop\DoAn\Nhom01_CongNgheNet - Sao chép\Nhom01_CongNghe.Net\obj\Debug\Nhom01_CongNghe.Net.frmTaiKhoan.resources
+C:\Users\PC\Desktop\DoAn\Nhom01_CongNgheNet - Sao chép\Nhom01_CongNghe.Net\obj\Debug\Nhom01_CongNghe.Net.Properties.Resources.resources
+C:\Users\PC\Desktop\DoAn\Nhom01_CongNgheNet - Sao chép\Nhom01_CongNghe.Net\obj\Debug\Nhom01_CongNghe.Net.Report_DanhSachHD.resources
+C:\Users\PC\Desktop\DoAn\Nhom01_CongNgheNet - Sao chép\Nhom01_CongNghe.Net\obj\Debug\Nhom01_CongNghe.Net.Report_DoanhSo.resources
+C:\Users\PC\Desktop\DoAn\Nhom01_CongNgheNet - Sao chép\Nhom01_CongNghe.Net\obj\Debug\Nhom01_CongNghe.Net.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\DoAn\Nhom01_CongNgheNet - Sao chép\Nhom01_CongNghe.Net\obj\Debug\Nhom01_CongNghe.Net.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\DoAn\Nhom01_CongNgheNet - Sao chép\Nhom01_CongNghe.Net\obj\Debug\Nhom01_CongNghe.Net.csproj.CopyComplete
+C:\Users\PC\Desktop\DoAn\Nhom01_CongNgheNet - Sao chép\Nhom01_CongNghe.Net\obj\Debug\Nhom01_CongNghe.Net.exe
+C:\Users\PC\Desktop\DoAn\Nhom01_CongNgheNet - Sao chép\Nhom01_CongNghe.Net\obj\Debug\Nhom01_CongNghe.Net.pdb
+C:\Users\Le Vi\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\1412_50_CNPM_HUFI\1412_50_CNPM_HUFI\Nhom01_CongNgheNet_\Nhom01_CongNghe.Net\bin\Debug\Nhom01_CongNghe.Net.exe.config
+C:\Users\Le Vi\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\1412_50_CNPM_HUFI\1412_50_CNPM_HUFI\Nhom01_CongNgheNet_\Nhom01_CongNghe.Net\obj\Debug\Nhom01_CongNghe.Net.exe
+C:\Users\Le Vi\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\1412_50_CNPM_HUFI\1412_50_CNPM_HUFI\Nhom01_CongNgheNet_\Nhom01_CongNghe.Net\obj\Debug\Nhom01_CongNghe.Net.pdb
+C:\Users\Le Vi\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\1412_50_CNPM_HUFI\1412_50_CNPM_HUFI\Nhom01_CongNgheNet_\Nhom01_CongNghe.Net\bin\Debug\Nhom01_CongNghe.Net.exe
+C:\Users\Le Vi\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\1412_50_CNPM_HUFI\1412_50_CNPM_HUFI\Nhom01_CongNgheNet_\Nhom01_CongNghe.Net\bin\Debug\Nhom01_CongNghe.Net.pdb
+C:\Users\Le Vi\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\1412_50_CNPM_HUFI\1412_50_CNPM_HUFI\Nhom01_CongNgheNet_\Nhom01_CongNghe.Net\obj\Debug\Nhom01_CongNghe.Net.csprojResolveAssemblyReference.cache
+C:\Users\Le Vi\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\1412_50_CNPM_HUFI\1412_50_CNPM_HUFI\Nhom01_CongNgheNet_\Nhom01_CongNghe.Net\obj\Debug\Nhom01_CongNghe.Net.DSHOADON.resources
+C:\Users\Le Vi\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\1412_50_CNPM_HUFI\1412_50_CNPM_HUFI\Nhom01_CongNgheNet_\Nhom01_CongNghe.Net\obj\Debug\Nhom01_CongNghe.Net.frmChiTietSanPham.resources
+C:\Users\Le Vi\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\1412_50_CNPM_HUFI\1412_50_CNPM_HUFI\Nhom01_CongNgheNet_\Nhom01_CongNghe.Net\obj\Debug\Nhom01_CongNghe.Net.frmHoaDon.resources
+C:\Users\Le Vi\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\1412_50_CNPM_HUFI\1412_50_CNPM_HUFI\Nhom01_CongNgheNet_\Nhom01_CongNghe.Net\obj\Debug\Nhom01_CongNghe.Net.frmLogin.resources
+C:\Users\Le Vi\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\1412_50_CNPM_HUFI\1412_50_CNPM_HUFI\Nhom01_CongNgheNet_\Nhom01_CongNghe.Net\obj\Debug\Nhom01_CongNghe.Net.frmMain_NV.resources
+C:\Users\Le Vi\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\1412_50_CNPM_HUFI\1412_50_CNPM_HUFI\Nhom01_CongNgheNet_\Nhom01_CongNghe.Net\obj\Debug\Nhom01_CongNghe.Net.frmDanhmuc.resources
+C:\Users\Le Vi\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\1412_50_CNPM_HUFI\1412_50_CNPM_HUFI\Nhom01_CongNgheNet_\Nhom01_CongNghe.Net\obj\Debug\Nhom01_CongNghe.Net.frmMenu.resources
+C:\Users\Le Vi\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\1412_50_CNPM_HUFI\1412_50_CNPM_HUFI\Nhom01_CongNgheNet_\Nhom01_CongNghe.Net\obj\Debug\Nhom01_CongNghe.Net.frmOder.resources
+C:\Users\Le Vi\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\1412_50_CNPM_HUFI\1412_50_CNPM_HUFI\Nhom01_CongNgheNet_\Nhom01_CongNghe.Net\obj\Debug\Nhom01_CongNghe.Net.frmQLHoaDon.resources
+C:\Users\Le Vi\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\1412_50_CNPM_HUFI\1412_50_CNPM_HUFI\Nhom01_CongNgheNet_\Nhom01_CongNghe.Net\obj\Debug\Nhom01_CongNghe.Net.frmQLPhong.resources
+C:\Users\Le Vi\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\1412_50_CNPM_HUFI\1412_50_CNPM_HUFI\Nhom01_CongNgheNet_\Nhom01_CongNghe.Net\obj\Debug\Nhom01_CongNghe.Net.frmQLSanPham.resources
+C:\Users\Le Vi\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\1412_50_CNPM_HUFI\1412_50_CNPM_HUFI\Nhom01_CongNgheNet_\Nhom01_CongNghe.Net\obj\Debug\Nhom01_CongNghe.Net.frmQuanTri.resources
+C:\Users\Le Vi\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\1412_50_CNPM_HUFI\1412_50_CNPM_HUFI\Nhom01_CongNgheNet_\Nhom01_CongNghe.Net\obj\Debug\Nhom01_CongNghe.Net.frmPhong.resources
+C:\Users\Le Vi\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\1412_50_CNPM_HUFI\1412_50_CNPM_HUFI\Nhom01_CongNgheNet_\Nhom01_CongNghe.Net\obj\Debug\Nhom01_CongNghe.Net.frmTaiKhoan.resources
+C:\Users\Le Vi\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\1412_50_CNPM_HUFI\1412_50_CNPM_HUFI\Nhom01_CongNgheNet_\Nhom01_CongNghe.Net\obj\Debug\Nhom01_CongNghe.Net.Properties.Resources.resources
+C:\Users\Le Vi\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\1412_50_CNPM_HUFI\1412_50_CNPM_HUFI\Nhom01_CongNgheNet_\Nhom01_CongNghe.Net\obj\Debug\Nhom01_CongNghe.Net.Report_DanhSachHD.resources
+C:\Users\Le Vi\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\1412_50_CNPM_HUFI\1412_50_CNPM_HUFI\Nhom01_CongNgheNet_\Nhom01_CongNghe.Net\obj\Debug\Nhom01_CongNghe.Net.Report_DoanhSo.resources
+C:\Users\Le Vi\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\1412_50_CNPM_HUFI\1412_50_CNPM_HUFI\Nhom01_CongNgheNet_\Nhom01_CongNghe.Net\obj\Debug\Nhom01_CongNghe.Net.csproj.GenerateResource.Cache
